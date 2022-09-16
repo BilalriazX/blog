@@ -1,0 +1,130 @@
+.intro {
+  margin-top: 100px;
+  
+  max-width: 800px;
+  color: black;
+  font-size: 4.75rem !important;
+  font-weight: 700 !important;
+  line-height: 0%;
+  letter-spacing: 0ch;
+}
+.intro-sub {
+  max-width: 700px;
+  color: black;
+  font-size: 3rem !important;
+  font-weight: 600 !important;
+  line-height: 0%;
+  letter-spacing: 0ch;
+}
+.link {
+  padding: 20px 0px;
+  color: rgb(15, 177, 123);
+  font-size: 4.75em;
+  font-weight: bold;
+}
+.links0 {
+  display: inline-block;
+  text-decoration: none;
+  text-decoration-skip-ink: auto;
+  color: inherit;
+  position: relative;
+  transition: var(--transition);
+}
+.edu h2 {
+  padding: 25px 0px;
+  max-width: 800px;
+  color: black;
+  font-size:1.75em;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.edu h3 {
+  padding: 25px 0px;
+  font-size: 1.75em;
+  font-weight: bold;
+}
+.date {
+  margin-top: 2px;
+  padding: 25px 0px;
+  max-width: 800px;
+  font-size: 2.75em;
+  font-weight: bold;
+  color: rgb(99, 99, 99);
+  font-family: var(--font-mono);
+  font-size: 1.25rem;
+}
+
+.edu2 h3 {
+  padding: 25px 0px;
+
+  font-size: 1.75em;
+  font-weight: bold;
+}
+.date2 {
+  margin-top: 2px;
+  padding: 25px 0px;
+  max-width: 800px;
+  font-size: 2.75em;
+  font-weight: bold;
+  color: rgb(99, 99, 99);
+  font-family: var(--font-mono);
+  font-size: 1.25rem;
+}
+.desc {
+  font-size: 1.125rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.edurange {
+  font-family: var(--font-mono);
+  font-size: 1.25rem;
+}
+
+.links {
+  display: inline-block;
+  text-decoration: none;
+  text-decoration-skip-ink: auto;
+  position: relative;
+  transition: var(--transition);
+  color: rgb(30, 199, 143);
+}
+.links2 {
+  display: inline-block;
+  position: relative;
+  transition: var(--transition);
+  color: rgb(30, 199, 143);
+}
+.links0 a {
+  display: inline-block;
+  text-decoration: none;
+  text-decoration-skip-ink: auto;
+  color: inherit;
+  position: relative;
+  transition: var(--transition);
+}
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+  -webkit-box-align: center;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  width: 100%;
+}
+.icons {
+  display: inline-block;
+  text-decoration: none;
+  text-decoration-skip-ink: auto;
+  color: inherit;
+  position: relative;
+  transition: var(--transition);
+}
+
+.footer {
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: var(--font-mono);
+    color: black;
+}
